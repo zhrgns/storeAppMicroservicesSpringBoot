@@ -1,0 +1,29 @@
+[
+  {
+    "productId": "P001",
+    "brand": "Apple",
+    "category": "Electronics",
+    "productName": "Apple iPhone 13 Pro",
+    "description": "The Apple iPhone 13 Pro is the latest flagship smartphone from Apple, featuring a stunning Super Retina XDR OLED display, A15 Bionic chip, Pro camera system, and 5G connectivity.",
+    "price": 999.99,
+    "stockNumber": 50
+  },
+  {
+    "productId": "P002",
+    "brand": "Nike",
+    "category": "Footwear",
+    "productName": "Nike Air Max 270",
+    "description": "The Nike Air Max 270 is a popular sneaker known for its comfortable Air Max cushioning, stylish design, and lightweight feel. It features a breathable mesh upper and a durable rubber outsole.",
+    "price": 129.99,
+    "stockNumber": 25
+  },
+  {
+    "productId": "P003",
+    "brand": "Amazon",
+    "category": "Smart Home",
+    "productName": "Amazon Echo Dot (3rd Gen)",
+    "description": "The Amazon Echo Dot (3rd Gen) is a compact smart speaker that uses Amazon's Alexa voice assistant to play music, control smart home devices, answer questions, and more. It features a sleek fabric design and improved sound quality.",
+    "price": 49.99,
+    "stockNumber": 100
+  }
+]

@@ -1,0 +1,51 @@
+Index: .idea/vcs.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/vcs.xml b/.idea/vcs.xml
+new file mode 100644
+--- /dev/null	(date 1681767296867)
++++ b/.idea/vcs.xml	(date 1681767296867)
+@@ -0,0 +1,6 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="VcsDirectoryMappings">
++    <mapping directory="$PROJECT_DIR$" vcs="Git" />
++  </component>
++</project>
+\ No newline at end of file
+Index: .idea/.gitignore
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/.gitignore b/.idea/.gitignore
+new file mode 100644
+--- /dev/null	(date 1681767296878)
++++ b/.idea/.gitignore	(date 1681767296878)
+@@ -0,0 +1,8 @@
++# Default ignored files
++/shelf/
++/workspace.xml
++# Editor-based HTTP Client requests
++/httpRequests/
++# Datasource local storage ignored files
++/dataSources/
++/dataSources.local.xml
+Index: README.md
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+># storeMicroservicesSpringBoot
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/README.md b/README.md
+--- a/README.md	(revision ec4f92a522d347bf97687f2a9c6494c1eaa7ef5a)
++++ b/README.md	(date 1681767313043)
+@@ -1,1 +1,2 @@
+-# storeMicroservicesSpringBoot
+\ No newline at end of file
++# storeMicroservicesSpringBoot
++* The project uses microservice architecture as a modern application and built with technologies like Spring Boot, Maven, Hibernate, Feign Client, and Spring Cloud Eureka Server.
+\ No newline at end of file
