@@ -1,0 +1,2 @@
+# Store App, Microservices with Java & And Spring Boot 
+* The project uses microservice architecture as a modern application and built with technologies like Spring Boot, Maven, Hibernate, Feign Client, and Spring Cloud Eureka Server.
